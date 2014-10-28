@@ -10,7 +10,7 @@ namespace ConsoleCodeFirst
         static void Main(string[] args)
         {
              // GGGGG
-             //test
+             // test
         }
     }
 }
